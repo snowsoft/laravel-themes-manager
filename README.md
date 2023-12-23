@@ -22,7 +22,7 @@ This package requires PHP 7.4 and Laravel 7.0 or higher.
 
 To get started, install Themes Manager using Composer:
 ```shell
-composer require hexadog/laravel-themes-manager
+composer require snowsoft/laravel-themes-manager
 ```
 
 The package will automatically register its service provider.
