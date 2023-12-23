@@ -1,20 +1,20 @@
 <p align="center"><img src="https://i.ibb.co/pKJgXY5/laravel-modules-manager.png" height="192"></p>
 
 <p align="center">
-    <a href="https://packagist.org/packages/hexadog/laravel-themes-manager">
-        <img src="https://poser.pugx.org/hexadog/laravel-themes-manager/v" alt="Latest Stable Version">
+    <a href="https://packagist.org/packages/snowsoft/laravel-themes-manager">
+        <img src="https://poser.pugx.org/snowsoft/laravel-themes-manager/v" alt="Latest Stable Version">
     </a>
-    <a href="https://packagist.org/packages/hexadog/laravel-themes-manager">
-        <img src="https://poser.pugx.org/hexadog/laravel-themes-manager/downloads" alt="Total Downloads">
+    <a href="https://packagist.org/packages/snowsoft/laravel-themes-manager">
+        <img src="https://poser.pugx.org/snowsoft/laravel-themes-manager/downloads" alt="Total Downloads">
     </a>
-    <a href="https://packagist.org/packages/hexadog/laravel-themes-manager">
-        <img src="https://poser.pugx.org/hexadog/laravel-themes-manager/license" alt="License">
+    <a href="https://packagist.org/packages/snowsoft/laravel-themes-manager">
+        <img src="https://poser.pugx.org/snowsoft/laravel-themes-manager/license" alt="License">
     </a>
 </p>
 
 <!-- omit in toc -->
 ## Introduction
-<code>hexadog/laravel-themes-manager</code> is a Laravel package which was created to let you developing multi-themes Laravel application.
+<code>snowsoft/laravel-themes-manager</code> is a Laravel package which was created to let you developing multi-themes Laravel application.
 
 <!-- omit in toc -->
 ## Installation
