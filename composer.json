@@ -1,10 +1,10 @@
 {
-    "name": "hexadog/laravel-themes-manager",
+    "name": "snowsoft/laravel-themes-manager",
     "description": "Bring multi themes support to your Laravel application with a full-featured Themes Manager",
     "license": "MIT",
     "support": {
-        "issues": "https://github.com/hexadog/laravel-themes-manager/issues",
-        "source": "https://github.com/hexadog/laravel-themes-manager"
+        "issues": "https://github.com/snowsoft/laravel-themes-manager/issues",
+        "source": "https://github.com/snowsoft/laravel-themes-manager"
     },
     "authors": [
         {
@@ -16,7 +16,7 @@
     "require": {
         "php": ">=7.4",
         "ext-json": "*",
-        "hexadog/laravel-theme-installer": "^1.0",
+        "snowsoft/laravel-theme-installer": "^1.0",
         "illuminate/view": "^7.0|^8.0|^9.0|^10.0"
     },
     "require-dev": {
